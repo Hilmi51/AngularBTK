@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Laptop",
+      "price": 2500,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "name": "Mouse",
+      "price": 25,
+      "description": "A4 tech",
+      "imageUrl": "https://media.istockphoto.com/photos/esport-rgb-mouse-click-picture-id1316805243?k=20&m=1316805243&s=612x612&w=0&h=MeW41TH5Ulj6VTix-3m1YFZhp0pvPYdMpqCfaBMQxjU="
+    },
+    {
+      "name": "Telefon",
+      "imageUrl": "https://productimages.hepsiburada.net/s/31/375/10352775823410.jpg",
+      "description": "IPhone 8 telefon",
+      "price": "5000",
+      "categoryId": "2",
+      "id": 3
+    },
+    {
+      "name": "Telefon",
+      "description": "IPhone 8 telefon",
+      "imageUrl": "https://productimages.hepsiburada.net/s/31/375/10352775823410.jpg",
+      "price": "5500",
+      "categoryId": "2",
+      "id": 4
+    },
+    {
+      "name": "Buzdolabı",
+      "description": "Arçelik no-frost buzdolabı",
+      "imageUrl": "https://iis-akakce.akamaized.net/p.z?%2F%2Fst3%2Emyideasoft%2Ecom%2Fidea%2Fdx%2F73%2Fmyassets%2Fproducts%2F071%2Farcelik%2D283720%2Ddiamond%2Dno%2Dfrost%2Dbuzdolabi%2D1%2Ejpg%3Frevision%3D1597922727",
+      "price": "2000",
+      "categoryId": "2",
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Elektronik"
+    }
+  ]
+}

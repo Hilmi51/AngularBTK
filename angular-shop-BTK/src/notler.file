@@ -1,0 +1,2 @@
+ng g service "name" => ile birlikte service kurmamızı sağlar.
+"json-server --watch shop.json" =>ile birlikte datalarımız çalıştırabiliriz.
